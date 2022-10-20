@@ -21,12 +21,12 @@ This Project is **[Live](https://reg-login-using-nodejs-mongodb.herokuapp.com/)*
 ### •Registration Form:
 Allows the user to register their account by filling their Email, Username, Password.
 
-<img src="./docs/registration.PNG" height="250" width="390" style="border: 1px solid black;">
+<img src="./registration.PNG" height="250" width="390" style="border: 1px solid black;">
 
 ### •Login Form:
 If the user has been registered on the app, can login by passing the credentials.
 
-<img src="./docs/login.PNG" height="220" width="390" style="border: 1px solid black;">
+<img src="./login.PNG" height="220" width="390" style="border: 1px solid black;">
 
 ### •User's Profile:
 After the user logged in, a simple profile with the user's username and password <br>displayed with a session Logout button.
