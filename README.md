@@ -31,12 +31,12 @@ If the user has been registered on the app, can login by passing the credentials
 ### •User's Profile:
 After the user logged in, a simple profile with the user's username and password <br>displayed with a session Logout button.
 
-<img src="data.PNG" height="160" width="380" style="border: 1px solid black;">
+<img src="./data.PNG" height="160" width="380" style="border: 1px solid black;">
 
 ### •Password Reset:
 If the user forget his/her password, can reset by entering the registered Email id <br>and reset the password.
 
-<img src="./docs/forgetpass.PNG" height="200" width="400" style="border: 1px solid black;">
+<img src="./forgetpass.PNG" height="200" width="400" style="border: 1px solid black;">
 
 ### DataBase:
 Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as the database. Here we have two collection created, named as:
@@ -49,7 +49,7 @@ A Collection(**Users**) is populated with the user's credentials.
 
 A Collection(**session**) is created which stores the users Logged session.
 
-<img src="./docs/sessiondb.PNG" height="300" width="720" style="border: 1px solid black;">
+<img src="./sessiondb.PNG" height="300" width="720" style="border: 1px solid black;">
 <br>
 <br>
 <br>
